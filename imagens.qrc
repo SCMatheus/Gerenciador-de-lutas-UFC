@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imagens">
+        <file>UFC.jpg</file>
+        <file>UFC5.jpg</file>
+        <file>UFC6.jpg</file>
+    </qresource>
+</RCC>
